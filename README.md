@@ -79,9 +79,9 @@ Feel free to **fork** this repository, raise an issue, or submit a PR if you hav
 
 ## 📬 Contact
 
-📧 **Your Name** – [your.email@example.com](mailto\:your.email@example.com)\
-🔗 **GitHub** – [github.com/your-username](https://github.com/your-username)\
-💼 **LinkedIn** – [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+📧 **Your Name** – Brahmesh Kumar
+🔗 **GitHub** – [https://github.com/brahmesh001](https://github.com/brahmesh001)\
+💼 **LinkedIn** – [https://www.linkedin.com/in/brahmesh-kumar-887162287/](https://www.linkedin.com/in/brahmesh-kumar-887162287/)
 
 ---
 
